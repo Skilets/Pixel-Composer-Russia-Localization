@@ -29,8 +29,8 @@
 
 # Как установка
 1. Копируете папку Ru.
-2. И закидываете в `C:\Users\Имя_Пользователя\AppData\Local\PixelComposer\Locale`
-Что был так <img width="280" height="153" alt="image" src="https://github.com/user-attachments/assets/665d066e-c51f-4cae-b160-cdd4e9df8e7e" />
+2. И закидываете в `C:\Users\Имя_Пользователя\AppData\Local\PixelComposer\Locale`.
+Что бы было так <img width="280" height="153" alt="image" src="https://github.com/user-attachments/assets/665d066e-c51f-4cae-b160-cdd4e9df8e7e" />
 3. После перезапускаем ПО
 И готово
 
