@@ -4,7 +4,7 @@
 
 
 # Pixel-Composer-Russian-Localization
-Репозиторий для перевода [Pixel Composer](https://github.com/Ttanasart-pt/Pixel-Composer), а также локализации официальной документации и видеоматериалов.
+Репозиторий для перевода [Pixel Composer](https://github.com/Ttanasart-pt/Pixel-Composer).
 
 </br>
 
